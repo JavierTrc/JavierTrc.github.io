@@ -67,3 +67,11 @@
   letter-spacing: -.05rem;
 }
 
+.lead {
+  line-height: 2rem;
+}
+
+.lead strong {
+  font-size: 2rem;
+}
+
